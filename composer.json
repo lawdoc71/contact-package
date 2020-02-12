@@ -1,0 +1,19 @@
+{
+    "name": "lawdoc71/contact",
+    "description": "A contact page module",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "lawdoc71",
+            "email": "mdbutlerlaw@me.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Lawdoc71\\Contact\\": "src/"
+        }
+    }
+}
