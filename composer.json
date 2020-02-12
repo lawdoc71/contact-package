@@ -15,5 +15,12 @@
         "psr-4": {
             "Lawdoc71\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Lawdoc71\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
